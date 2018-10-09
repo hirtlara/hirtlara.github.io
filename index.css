@@ -9,7 +9,7 @@ body {
     text-align: center;
 	background-color: #fcfcfc;
 	padding: 2em 1em;
-	width: 35%;
+	max-width: 10%;
 	
 }
 button {
