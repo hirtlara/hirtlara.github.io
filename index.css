@@ -10,6 +10,7 @@ body {
 	background-color: #fcfcfc;
 	padding: 2em 1em;
 	max-width: 270px;
+	align: center;
 }
 button {
 	background-color: #e3e3e3;
