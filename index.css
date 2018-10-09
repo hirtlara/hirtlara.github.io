@@ -9,8 +9,7 @@ body {
     text-align: center;
 	background-color: #fcfcfc;
 	padding: 2em 1em;
-	max-width: 10%;
-	
+	max-width: 40px;
 }
 button {
 	background-color: #e3e3e3;
@@ -45,5 +44,3 @@ a:hover {
 	color: #808080;
 	
 	}
-	
-
